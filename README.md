@@ -200,4 +200,3 @@ For production, I would add:
 
 ---
 
-## Summary
